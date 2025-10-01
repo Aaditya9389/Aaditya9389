@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaditya9389
+- 👋 Hi, I’m @Aadityachaudhary
 - 👀 I’m interested in ... AI and Machine learning
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
